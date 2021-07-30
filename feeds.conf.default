@@ -5,6 +5,7 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git lienol https://github.com/Lienol/openwrt-package
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
+src-git honwen https://github.com/honwen/openwrt-v2ray-plugin.git
 #src-git video https://github.com/openwrt/video.git
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
