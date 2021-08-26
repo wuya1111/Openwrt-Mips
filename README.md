@@ -1,4 +1,4 @@
-## 针对于MIPS-MT7621(红米小米AC2100和新路由3)设备的编译
+## 针对于MIPS-MT7621(新路由3)设备的编译
 ### 使用并且参考以下轮子
 **[GitHub云编译教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)**  
 
