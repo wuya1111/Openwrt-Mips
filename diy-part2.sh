@@ -13,4 +13,5 @@
 # Modify default IP
 #sed -i 's/192.168.1.1/192.168.50.5/g' package/base-files/files/bin/config_generate
 git clone https://github.com/chenhw2/openwrt-v2ray-plugin.git package/v2ray-plugin
+git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 #git clone https://github.com/wuya1111/OpenAppFilter.git package/filter
